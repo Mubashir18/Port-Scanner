@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "targets": [
+      "127.0.0.1"
+    ],
+    "start_port": 1,
+    "end_port": 100,
+    "timestamp": "2026-03-27T14:19:47.835514"
+  },
+  "results": {
+    "127.0.0.1": {
+      "open": 1,
+      "closed": 1,
+      "filtered": 0,
+      "ports": [
+        {
+          "port": 22,
+          "state": "CLOSED",
+          "service": "SSH",
+          "banner": "",
+          "hostname": "127.0.0.1"
+        },
+        {
+          "port": 80,
+          "state": "OPEN",
+          "service": "HTTP",
+          "banner": "",
+          "hostname": "127.0.0.1"
+        }
+      ]
+    }
+  }
+}
