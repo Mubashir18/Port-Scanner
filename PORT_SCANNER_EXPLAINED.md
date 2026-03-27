@@ -1,4 +1,4 @@
-# Port Scanner - Complete Explanation (English)
+# Port Scanner - Complete Explanation 
 
 ## First, Understand: What is a Port?
 
