@@ -3,9 +3,6 @@
 Simple Port Scanner v3.0
 A network reconnaissance tool for identifying open TCP ports on a target host.
 Supports multiple output formats, scan profiles, rate limiting, and advanced filtering.
-
-Author: Port Scanner Community
-License: AGPL 3.0
 """
 
 import socket
