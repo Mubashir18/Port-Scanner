@@ -137,7 +137,6 @@ None - This is the initial v2.0 release with backward compatibility maintained.
 
 ### 🔜 Future Enhancements
 
-See `learn/04-CHALLENGES.md` for planned improvements:
 - UDP port scanning
 - Service version detection
 - IPv6 support
